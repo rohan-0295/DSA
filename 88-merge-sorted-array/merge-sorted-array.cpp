@@ -10,7 +10,7 @@ public:
             }
             else{
                 nums1[idx--] = nums2[j--];
-            }
+            }//hi
         }
         while(j>=0){// if spaces of i is still left
             nums1[idx--] = nums2[j--];
